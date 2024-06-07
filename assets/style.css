@@ -69,4 +69,5 @@ html {
 #gallery img {
   width: 20%;
   float: left;
+  cursor: pointer;
 }
